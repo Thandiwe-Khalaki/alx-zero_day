@@ -1,2 +1,2 @@
 small text
-for this task only
+only for thi tasm
